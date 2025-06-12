@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I'm wane 👋</h1>
 <p align="center">
   <em>Developer focused on building reliable tools and learning by doing.</em><br>
@@ -22,13 +21,31 @@
 
 ---
 
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,cpp,rust,java,go" alt="Languages" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,django,spring,vue" alt="Frameworks" /> </p>
-🧭 Focus Areas
+## 🛠 Tech Stack
 
-| 💻 Backend | 🔐 Security | ⚙️ Systems | 🎧 Audio Processing |
-|:----------:|:-----------:|:----------:|:-------------------:|
-| ✅         | ✅          | ✅         | ✅                  |
+### 💬 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,cpp,rust,java,go" alt="Languages" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,django,spring,vue" alt="Frameworks" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github" alt="Tools" />
+</p>
+
+---
+
+## 🧭 Focus Areas
+
+| 💻 Backend | 🔐 Security | ⚙️ Systems | 🎧 Audio |
+|:---------:|:-----------:|:---------:|:--------:|
+| ✅         | ✅          | ✅         | ✅        |
+
 ---
 
 ### 📊 GitHub Stats
@@ -50,12 +67,10 @@
 
 ### 📫 Reach Me
 * 💬 Discord: [Click](https://discord.com/users/1188300246791503943)
+
 ---
 
 ### 🏆 Highlights
 
 * 💎 Member of the GitHub **Developer Program**
 * 🆕 Joined GitHub *just recently — already building cool stuff!*
-
-
-
