@@ -24,7 +24,7 @@
 
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,cpp,rust,java,go" alt="Languages" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,django,spring,vue" alt="Frameworks" /> </p>
-## 🧭 Focus Areas
+🧭 Focus Areas
 
 | 💻 Backend | 🔐 Security | ⚙️ Systems | 🎧 Audio Processing |
 |:----------:|:-----------:|:----------:|:-------------------:|
