@@ -25,7 +25,7 @@
 
 ### 💬 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,cpp,rust,java,go,csharp" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,cpp,rust,java,go,dotnet" alt="Languages" />
 </p>
 
 ### 🧩 Frameworks & Libraries
